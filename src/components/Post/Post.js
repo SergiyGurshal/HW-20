@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 import likeIcon from '../../img/like.svg'
 import commentIcon from '../../img/comment.png'
